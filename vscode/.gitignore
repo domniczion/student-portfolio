@@ -1,0 +1,7 @@
+
+# Temporary files
+temp.txt
+*.log
+
+# System files
+.DS_Store
